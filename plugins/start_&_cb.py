@@ -109,7 +109,7 @@ async def cb_handler(client, query: CallbackQuery):
         )
     elif data == "terms":
         await query.message.edit_text(
-            text=Txt.DEV_TXT,
+            text=Txt.SNOW_TXT,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([[
                 InlineKeyboardButton("❣️ Sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT")
