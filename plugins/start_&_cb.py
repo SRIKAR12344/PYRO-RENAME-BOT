@@ -109,14 +109,14 @@ async def cb_handler(client, query: CallbackQuery):
         )
     elif data == "terms":
         await query.message.edit_text(
-            text=Txt.SNOW_TXT,
+            text=Txt.SR_TXT,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([[
                 InlineKeyboardButton("🔒 Cʟᴏꜱᴇ", callback_data = "close"),
                 InlineKeyboardButton("◀️ Bᴀᴄᴋ", callback_data = "start")
             ]])
          )
-    elif data == "terms":
+    elif data == "sike":
         await query.message.edit_text(
             text=Txt.SNOW_TXT,
             disable_web_page_preview=True,
