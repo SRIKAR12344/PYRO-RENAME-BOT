@@ -101,5 +101,14 @@ Exᴀᴍᴩʟᴇ:- /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 ┣⪼ 🚀 Sᴩᴇᴇᴅ: {3}/s
 ┣⪼ ⏰️ Eᴛᴀ: {4}
 ╰━━━━━━━━━━━━━━━➣ </b>"""
+    
+    SNOW_TXT = """<b>\n
+    BRUU BOTHING SERHEJSBSSHSJE
+    DHDJ
+    
+    W
+    
+    
+    WWHJJ</b>"""
 
 
