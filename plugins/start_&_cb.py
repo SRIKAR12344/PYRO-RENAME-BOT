@@ -37,10 +37,10 @@ async def start(client, message):
         InlineKeyboardButton("👨‍💻 𝗧𝗘𝗥𝗠𝗦 𝗔𝗡𝗗 𝗖𝗢𝗡𝗗𝗜𝗧𝗜𝗢𝗡𝗦 👨‍💻", callback_data='terms')
         ],[
         InlineKeyboardButton('📯 𝗨𝗣𝗗𝗔𝗧𝗘𝗦', url='https://t.me/PYRO_BOTZ'),
-        InlineKeyboardButton('💁‍♂️ 𝗦𝗨𝗣𝗣𝗢𝗥𝗧, url='https://t.me/PYRO_BOTZ_CHAT')
+        InlineKeyboardButton('💁‍♂️ 𝗦𝗨𝗣𝗣𝗢𝗥𝗧', url='https://t.me/PYRO_BOTZ_CHAT')
         ],[
-        InlineKeyboardButton('🎛️ 𝗔𝗕𝗢𝗨𝗧, callback_data='about'),
-        InlineKeyboardButton('🛠️ 𝗛𝗘𝗟𝗣, callback_data='help')
+        InlineKeyboardButton('🎛️ 𝗔𝗕𝗢𝗨𝗧', callback_data='about'),
+        InlineKeyboardButton('🛠️ 𝗛𝗘𝗟𝗣', callback_data='help')
     ]])
     if Config.START_PIC:
         await message.reply_photo(Config.START_PIC, caption=Txt.START_TXT.format(user.mention), reply_markup=button)       
@@ -58,11 +58,11 @@ async def cb_handler(client, query: CallbackQuery):
             reply_markup = InlineKeyboardMarkup([[
                 InlineKeyboardButton("👨‍💻 𝗧𝗘𝗥𝗠𝗦 𝗔𝗡𝗗 𝗖𝗢𝗡𝗗𝗜𝗧𝗜𝗢𝗡𝗦 👨‍💻", callback_data='terms')
                 ],[
-                InlineKeyboardButton('📯 𝗨𝗣𝗗𝗔𝗧𝗘𝗦, url='https://t.me/PYRO_BOTZ'),
-                InlineKeyboardButton('💁‍♂️ 𝗦𝗨𝗣𝗣𝗢𝗥𝗧, url='https://t.me/PYRO_BOTZ_CHAT')
+                InlineKeyboardButton('📯 𝗨𝗣𝗗𝗔𝗧𝗘𝗦', url='https://t.me/PYRO_BOTZ'),
+                InlineKeyboardButton('💁‍♂️ 𝗦𝗨𝗣𝗣𝗢𝗥𝗧', url='https://t.me/PYRO_BOTZ_CHAT')
                 ],[
-                InlineKeyboardButton('🎛️ 𝗔𝗕𝗢𝗨𝗧, callback_data='about'),
-                InlineKeyboardButton('🛠️ 𝗛𝗘𝗟𝗣, callback_data='help')
+                InlineKeyboardButton('🎛️ 𝗔𝗕𝗢𝗨𝗧', callback_data='about'),
+                InlineKeyboardButton('🛠️ 𝗛𝗘𝗟𝗣', callback_data='help')
             ]])
         )
     elif data == "help":
