@@ -61,8 +61,8 @@ Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : @KDRAMSHINDI</b>"""
 
     ABOUT_TXT = """<b>╭───────────⍟
 ├🤖 ᴍy ɴᴀᴍᴇ : {}
-├🖥️ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/PYRO_BOTZ/53>𝗧𝗘𝗔𝗠 𝗣𝗬𝗥𝗢 𝗕𝗢𝗧𝗭</a> 
-├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://github.com/lntechnical2>Lɴ Tᴇᴄʜ.ɢɪᴛ</a>
+├🖥️ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/PYRO_BOTZ/53>ᴛᴇᴀᴍ sɴᴏᴡ ʙᴏᴛs</a> 
+├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://github.com/lntechnical2>sɪʀɪsʜ</a>
 ├📕 Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
 ├✏️ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>Pyᴛʜᴏɴ 3</a>
 ├💾 Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://cloud.mongodb.com>Mᴏɴɢᴏ DB</a>
@@ -75,7 +75,7 @@ Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : @KDRAMSHINDI</b>"""
 <b>•></b> /start Tʜᴇ Bᴏᴛ Aɴᴅ Sᴇɴᴅ Aɴy Pʜᴏᴛᴏ Tᴏ Aᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟy Sᴇᴛ Tʜᴜᴍʙɴɪʟᴇ.
 <b>•></b> /del_thumb Uꜱᴇ Tʜɪꜱ Cᴏᴍᴍᴀɴᴅ Tᴏ Dᴇʟᴇᴛᴇ Yᴏᴜʀ Oʟᴅ Tʜᴜᴍʙɴɪʟᴇ.
 <b>•></b> /view_thumb Uꜱᴇ Tʜɪꜱ Cᴏᴍᴍᴀɴᴅ Tᴏ Vɪᴇᴡ Yᴏᴜʀ Cᴜʀʀᴇɴᴛ Tʜᴜᴍʙɴɪʟᴇ.
-📑 <b><u>Hᴏᴡ Tᴏ Sᴇᴛ Cᴜꜱᴛᴏᴍ Cᴀᴩᴛɪᴏɴ</u></b>
+<b><u>    Hᴏᴡ Tᴏ Sᴇᴛ Cᴜꜱᴛᴏᴍ Cᴀᴩᴛɪᴏɴ</u></b>
 <b>•></b> /set_caption - Uꜱᴇ Tʜɪꜱ Cᴏᴍᴍᴀɴᴅ Tᴏ Sᴇᴛ ᴀ Cᴜꜱᴛᴏᴍ Cᴀᴩᴛɪᴏɴ
 <b>•></b> /see_caption - Uꜱᴇ Tʜɪꜱ Cᴏᴍᴍᴀɴᴅ Tᴏ Vɪᴇᴡ Yᴏᴜʀ Cᴜꜱᴛᴏᴍ Cᴀᴩᴛɪᴏɴ
 <b>•></b> /del_caption - Uꜱᴇ Tʜɪꜱ Cᴏᴍᴍᴀɴᴅ Tᴏ Dᴇʟᴇᴛᴇ Yᴏᴜʀ Cᴜꜱᴛᴏᴍ Cᴀᴩᴛɪᴏɴ
@@ -87,7 +87,7 @@ Exᴀᴍᴩʟᴇ:- /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/PYRO_BOTZ_CHAT>𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑮𝑹𝑶𝑼𝑷</a>
 """
 
-#⚠️ Dᴏɴ'ᴛ Rᴇᴍᴏᴠᴇ Oᴜʀ Cʀᴇᴅɪᴛꜱ @ᴩyʀᴏ_ʙᴏᴛᴢ🙏🥲
+#⚠️ Dᴏɴ'ᴛ Rᴇᴍᴏᴠᴇ Oᴜʀ Cʀᴇᴅɪᴛ ʟᴀᴢʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴀɴᴅ ᴛᴇᴀᴍ🙏🥲
     DEV_TXT = """<b><u>Sᴩᴇᴄɪᴀʟ Tʜᴀɴᴋꜱ & Dᴇᴠᴇʟᴏᴩᴇʀꜱ</b></u>
 • ❣️ <a href=https://github.com/lazydeveloperr>ʟᴀᴢʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ</a>
 • ❣️ <a href=https://t.me/Sirisha_lahari>sɪʀɪsʜᴀ</a>
@@ -101,17 +101,39 @@ Exᴀᴍᴩʟᴇ:- /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 ┣⪼ ⏳️ Dᴏɴᴇ : {0}%
 ┣⪼ 🚀 Sᴩᴇᴇᴅ: {3}/s
 ┣⪼ ⏰️ Eᴛᴀ: {4}
-╰━━━━━━━━━━━━━━━➣ </b>"""
+╰━━━━━━━━━━━━━━━➣ 
+
+ ╰┈➤ ᴀɴʏ ᴋɪɴᴅ ᴏғ ᴘʀᴏʙʟᴇᴍ ʟɪᴋᴇ sᴛᴏᴘᴘɪɴɢ ᴀɴᴅ ᴋɪɴᴅ ᴏғ ᴛʜɪɴɢᴇs
+ sʜᴏᴜʟᴅ ʙᴇ ʀᴇᴘᴏʀᴛᴇᴅ ᴛᴏ ᴜs ᴡᴇ ᴡɪʟʟ ғɪx ɪᴛ ᴏʀ ᴛᴇʟʟ ʏᴏᴜ ᴛʜᴇ 
+ sᴏʟᴜᴛɪᴏɴ ᴀɴᴅ ʜᴇʟᴘ ʏᴏᴜ ᴛᴇᴀᴍ sɴᴏᴡ ʙᴏᴛᴢ ɪɴᴅɪᴀ</b>"""
     
     SNOW_TXT = """<b>\n
-    BRUU BOTHING SERHEJSBSSHSJE
-    DHDJ
     
-    W
+    ᴄʜᴜᴛɪʏᴀ ɢʜᴀʀ ᴊᴀ ʙsᴅᴋ sᴏᴜʀᴄᴇ ɴᴇʜɪ ᴍɪʟᴇɢᴀ ᴀɴᴅ ᴋᴇsᴇ ᴋᴏ
+    ᴛʀᴜsᴛ ᴍᴀᴛʜ ᴋᴀʀ ɴᴀ ɪsssᴀ ʀᴇᴘᴏ ʙᴀss ᴇᴋᴋ ʜᴇ ʜᴀɪ ᴀɴᴅ ᴡᴏ
+    ᴛᴇᴀᴍ sɴᴏᴡ ʙᴏᴛs ɴᴇ ʙᴀɴᴀʏᴀ ʜᴀɪ ᴀɢᴀʀ ʏᴇ ʀᴇᴘᴏ ᴄʜᴀʏɪᴇ
+    ᴛʜᴏ ᴘᴀʏ ᴋᴀʀ ɴᴀ ᴘᴀᴅᴇɢᴀ ᴀɴᴅ ᴏɴʟʏ ᴄᴏɴᴛᴀᴄᴛ ᴏᴡɴᴇʀs ᴅᴏɴᴛ 
+    ᴅᴏ ᴛʜɪʀᴅ ᴘᴀʀᴛʏ ᴘᴀʏᴍᴇɴᴛs ᴀʟʟ ᴘᴀʏᴍᴇɴᴛs ᴏɴʟʏ ɪɴ ʀᴇᴅᴇᴇᴍ ᴄᴏᴅᴇs
     
+    ᴛʜᴀɴᴋs ;) ᴇɴᴊᴏʏ ʙᴏᴛ !!</b>"""
+   
     
-    WWHJJ</b>"""
+    LINKS_TXT = """<b>\n 
     
+    ᴊᴏɪɴ ᴀɴᴅ ᴀʟʟ ᴛʜᴇ ᴄʜᴀɴɴᴇʟs ᴀʟʟ ᴀʀᴇ ғɪʟᴇs ᴄʜᴀɴɴᴇʟs 
+    ᴇɴᴊᴏʏ ғʟᴏᴋs ᴀɴᴅ ᴍᴏᴢ ʟᴏ sᴏ ᴊᴏɪɴ ᴀʟʟ ᴀɴᴅ sʜᴀʀᴇ ᴀɴᴅ
+    sᴜᴘᴘᴏʀᴛ ᴜs ᴡᴇ ᴡɪʟʟ ᴅᴏ ᴍᴏʀᴇ ᴛʜɪɴɢᴇs ᴀɴᴅ sᴏ ᴍᴀɴʏ 
+    ʙᴏᴛs ᴀʀᴇ ᴀʙᴏᴜᴛ ᴛᴏ ᴄᴏᴍᴇ sᴏ ᴇɴᴊᴏʏ !!!
+    
+    ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ -  <a href=https://t.me/KDRAMSHINDI>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+    ᴋᴅʀᴀᴍᴀs ᴄʜᴀɴɴᴇʟ - <a href=https://t.me/k_Drama_Hindi_Dubbed_avl>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+    ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ - <a href=https://t.me/k_Drama_Hindi_Dubbed_avl
+    sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ - <a href=https://t.me/k_Drama_Hindi_Dubbed_avl
+    
+    ᴊᴏɪɴ ᴛʜᴇᴍ ᴀʟʟ ᴀɴᴅ ᴍᴏᴢ ʟᴏ ᴇɴᴊᴏʏ </b>"""
+
+
+
     SR_TXT = """<b>\n
     
 ══✿══╡°˖✧ʀᴜʟᴇs ᴏғ ᴛʜᴇ ʙᴏᴛ✧˖°╞══✿══
