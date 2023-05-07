@@ -125,7 +125,7 @@ async def cb_handler(client, query: CallbackQuery):
                 InlineKeyboardButton("◀️ Bᴀᴄᴋ", callback_data = "start")
             ]])
          )
-    elif data == "updates"
+    elif data == "updates":
         await query.message.edit_text(
             text=Txt.LINKS_TXT,
             disable_web_page_preview=True,
