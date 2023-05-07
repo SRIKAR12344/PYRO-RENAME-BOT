@@ -85,12 +85,11 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup([[
                 #⚠️ don't change source code & source link ⚠️ #
-                InlineKeyboardButton("❣️ Sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT")
+                InlineKeyboardButton("❣️ 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥𝗦", url="https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT"),
+
+                InlineKeyboardButton("🖥️ 𝗖𝗢𝗡𝗧𝗔𝗖𝗧", url="https://youtu.be/GfulqsSnTv4")
                 ],[
-                InlineKeyboardButton("🖥️ Hᴏᴡ Tᴏ Mᴀᴋᴇ", url="https://youtu.be/GfulqsSnTv4")
-                ],[
-                InlineKeyboardButton("🔒 Cʟᴏꜱᴇ", callback_data = "close"),
-                InlineKeyboardButton("◀️ Bᴀᴄᴋ", callback_data = "start")
+                InlineKeyboardButton("😇 𝗕𝗔𝗖𝗞", callback_data = "start")
             ]])            
         )
     elif data == "dev":
