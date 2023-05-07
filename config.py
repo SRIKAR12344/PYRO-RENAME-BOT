@@ -123,10 +123,11 @@ Exᴀᴍᴩʟᴇ:- /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
     sᴜᴘᴘᴏʀᴛ ᴜs ᴡᴇ ᴡɪʟʟ ᴅᴏ ᴍᴏʀᴇ ᴛʜɪɴɢᴇs ᴀɴᴅ sᴏ ᴍᴀɴʏ 
     ʙᴏᴛs ᴀʀᴇ ᴀʙᴏᴜᴛ ᴛᴏ ᴄᴏᴍᴇ sᴏ ᴇɴᴊᴏʏ !!!
     
-    ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ -  <a href=https://t.me/KDRAMSHINDI>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
-    ᴋᴅʀᴀᴍᴀs ᴄʜᴀɴɴᴇʟ - <a href=https://t.me/k_Drama_Hindi_Dubbed_avl>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
-    ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ - <a href=https://t.me/MOVIESSNOWINDIA>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
-    sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ - <a href=https://t.me/KDRAMSREQUEST>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+
+˚₊· ͟͟͞͞➳❥ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ -  <a href=https://t.me/KDRAMSHINDI>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+˚₊· ͟͟͞͞➳❥ ᴋᴅʀᴀᴍᴀs ᴄʜᴀɴɴᴇʟ - <a href=https://t.me/k_Drama_Hindi_Dubbed_avl>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+˚₊· ͟͟͞͞➳❥ ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ - <a href=https://t.me/MOVIESSNOWINDIA>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+˚₊· ͟͟͞͞➳❥ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ - <a href=https://t.me/KDRAMSREQUEST>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
     
     ᴊᴏɪɴ ᴛʜᴇᴍ ᴀʟʟ ᴀɴᴅ ᴍᴏᴢ ʟᴏ ᴇɴᴊᴏʏ </b>"""
 
