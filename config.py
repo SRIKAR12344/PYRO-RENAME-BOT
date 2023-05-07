@@ -61,8 +61,8 @@ Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : @KDRAMSHINDI</b>"""
 
     ABOUT_TXT = """<b>╭───────────⍟
 ├🤖 ᴍy ɴᴀᴍᴇ : {}
-├🖥️ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/PYRO_BOTZ/53>ᴛᴇᴀᴍ sɴᴏᴡ ʙᴏᴛs</a> 
-├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://github.com/lntechnical2>sɪʀɪsʜ</a>
+├🖥️ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/DEVELOPERSINDIAOFFCIAL/4>ᴛᴇᴀᴍ sɴᴏᴡ ʙᴏᴛs</a> 
+├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/SIRISH_123>sɪʀɪsʜ</a>
 ├📕 Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
 ├✏️ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>Pyᴛʜᴏɴ 3</a>
 ├💾 Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://cloud.mongodb.com>Mᴏɴɢᴏ DB</a>
@@ -84,7 +84,7 @@ Exᴀᴍᴩʟᴇ:- /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 ⏰ Dᴜʀᴀᴛɪᴏɴ: {duration}
 ✏️ <b><u>Hᴏᴡ Tᴏ Rᴇɴᴀᴍᴇ A Fɪʟᴇ</u></b>
 <b>•></b> Sᴇɴᴅ Aɴy Fɪʟᴇ Aɴᴅ Tyᴩᴇ Nᴇᴡ Fɪʟᴇ Nɴᴀᴍᴇ \nAɴᴅ Aᴇʟᴇᴄᴛ Tʜᴇ Fᴏʀᴍᴀᴛ [ document, video, audio ].           
-ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/PYRO_BOTZ_CHAT>𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑮𝑹𝑶𝑼𝑷</a>
+ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/KDRAMSREQUEST>𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑮𝑹𝑶𝑼𝑷</a>
 """
 
 #⚠️ Dᴏɴ'ᴛ Rᴇᴍᴏᴠᴇ Oᴜʀ Cʀᴇᴅɪᴛ ʟᴀᴢʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴀɴᴅ ᴛᴇᴀᴍ🙏🥲
@@ -93,7 +93,7 @@ Exᴀᴍᴩʟᴇ:- /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 • ❣️ <a href=https://t.me/Sirisha_lahari>sɪʀɪsʜᴀ</a>
 • ❣️ <a href=https://t.me/SIRISH_KRISHNA_CHOWDHARY>ᴠɪᴊᴀʏ ᴋʀɪsʜɴᴀ</a>
 • ❣️ <a href=https://t.me/SIRISH_123>sɪʀɪsʜ</a>
-• ❣️ <a href=https://t.me/about_jeol>ᴜᴊᴊᴡᴀʟ</a>"""
+• ❣️ <a href=https://t.me/iSmartboi_Ujjwall>ᴜᴊᴊᴡᴀʟ</a>"""
     
     PROGRESS_BAR = """<b>\n
 ╭━━━━❰ᴘʀᴏɢʀᴇss ʙᴀʀ❱━➣
@@ -103,9 +103,7 @@ Exᴀᴍᴩʟᴇ:- /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 ┣⪼ ⏰️ Eᴛᴀ: {4}
 ╰━━━━━━━━━━━━━━━➣ 
 
- ╰┈➤ ᴀɴʏ ᴋɪɴᴅ ᴏғ ᴘʀᴏʙʟᴇᴍ ʟɪᴋᴇ sᴛᴏᴘᴘɪɴɢ ᴀɴᴅ ᴋɪɴᴅ ᴏғ ᴛʜɪɴɢᴇs
- sʜᴏᴜʟᴅ ʙᴇ ʀᴇᴘᴏʀᴛᴇᴅ ᴛᴏ ᴜs ᴡᴇ ᴡɪʟʟ ғɪx ɪᴛ ᴏʀ ᴛᴇʟʟ ʏᴏᴜ ᴛʜᴇ 
- sᴏʟᴜᴛɪᴏɴ ᴀɴᴅ ʜᴇʟᴘ ʏᴏᴜ ᴛᴇᴀᴍ sɴᴏᴡ ʙᴏᴛᴢ ɪɴᴅɪᴀ</b>"""
+ ╰┈➤ ᴀɴʏ ᴋɪɴᴅ ᴏғ ᴘʀᴏʙʟᴇᴍ ᴍᴇssᴀɢᴇ <a href=https://t.me/SNOWBOTZOFFCIAL_BOT>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a> </b>"""
     
     SNOW_TXT = """<b>\n
     
@@ -127,8 +125,8 @@ Exᴀᴍᴩʟᴇ:- /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
     
     ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ -  <a href=https://t.me/KDRAMSHINDI>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
     ᴋᴅʀᴀᴍᴀs ᴄʜᴀɴɴᴇʟ - <a href=https://t.me/k_Drama_Hindi_Dubbed_avl>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
-    ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ - <a href=https://t.me/k_Drama_Hindi_Dubbed_avl
-    sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ - <a href=https://t.me/k_Drama_Hindi_Dubbed_avl
+    ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ - <a href=https://t.me/MOVIESSNOWINDIA>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+    sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ - <a href=https://t.me/KDRAMSREQUEST>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
     
     ᴊᴏɪɴ ᴛʜᴇᴍ ᴀʟʟ ᴀɴᴅ ᴍᴏᴢ ʟᴏ ᴇɴᴊᴏʏ </b>"""
 
