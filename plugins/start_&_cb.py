@@ -71,12 +71,11 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([[
                 #⚠️ don't change source code & source link ⚠️ #
-                InlineKeyboardButton("❣️ Sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT")
+                InlineKeyboardButton("❣️ 𝗦𝗨𝗣𝗣𝗢𝗥𝗧", url="https://t.me/KDRAMSREQUEST"),
+
+                InlineKeyboardButton("❤️‍🔥 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 ❤️‍🔥", url='https://t.me/SNOWBOTZOFFCIAL_BOT')
                 ],[
-                InlineKeyboardButton("❤️‍🔥 Hᴏᴡ Tᴏ Uꜱᴇ❤️‍🔥", url='https://youtu.be/BiC66uFJsio')
-                ],[
-                InlineKeyboardButton("🔒 Cʟᴏꜱᴇ", callback_data = "close"),
-                InlineKeyboardButton("◀️ Bᴀᴄᴋ", callback_data = "start")
+                InlineKeyboardButton("😅 𝗕𝗔𝗖𝗞", callback_data = "start")
             ]])            
         )
     elif data == "about":
@@ -85,9 +84,9 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup([[
                 #⚠️ don't change source code & source link ⚠️ #
-                InlineKeyboardButton("❣️ 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥𝗦", url="https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT"),
+                InlineKeyboardButton("❣️ 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥𝗦", callback_data="dev"),
 
-                InlineKeyboardButton("🖥️ 𝗖𝗢𝗡𝗧𝗔𝗖𝗧", url="https://youtu.be/GfulqsSnTv4")
+                InlineKeyboardButton("🖥️ 𝗖𝗢𝗡𝗧𝗔𝗖𝗧", url="https://t.me/SNOWBOTZOFFCIAL_BOT")
                 ],[
                 InlineKeyboardButton("😇 𝗕𝗔𝗖𝗞", callback_data = "start")
             ]])            
@@ -98,12 +97,10 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([[
                 #⚠️ don't change source code & source link ⚠️ #
-                InlineKeyboardButton("❣️ Sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT")
-                ],[
-                InlineKeyboardButton("🖥️ Hᴏᴡ Tᴏ Mᴀᴋᴇ", url="https://youtu.be/GfulqsSnTv4")
-                ],[
-                InlineKeyboardButton("🔒 Cʟᴏꜱᴇ", callback_data = "close"),
-                InlineKeyboardButton("◀️ Bᴀᴄᴋ", callback_data = "start")
+
+                InlineKeyboardButton("🖥️ 𝗖𝗢𝗡𝗧𝗔𝗖𝗧", url="https://t.me/SNOWBOTZOFFCIAL_BOT"),
+
+                InlineKeyboardButton("😅 𝗕𝗔𝗖𝗞", callback_data = "start")
             ]])
         )
     elif data == "terms":
@@ -111,8 +108,7 @@ async def cb_handler(client, query: CallbackQuery):
             text=Txt.SR_TXT,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([[
-                InlineKeyboardButton("🔒 Cʟᴏꜱᴇ", callback_data = "close"),
-                InlineKeyboardButton("◀️ Bᴀᴄᴋ", callback_data = "start")
+                InlineKeyboardButton("😅 𝗕𝗔𝗖𝗞", callback_data = "start")
             ]])
          )
     elif data == "sike":
@@ -129,7 +125,6 @@ async def cb_handler(client, query: CallbackQuery):
             text=Txt.LINKS_TXT,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([[
-                InlineKeyboardButton("🔒 Cʟᴏꜱᴇ", callback_data = "close"),
                 InlineKeyboardButton("◀️ Bᴀᴄᴋ", callback_data = "start")
             ]])
          )
